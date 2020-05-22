@@ -10,7 +10,7 @@ Whether you're looking to grow your email list, manage your team's work, or just
 
 ## Top 10 best software tools of 2020 (so far)
 
-1. [Notion](/reviews/notion)
+1. [Notion](/bestsoftware/reviews/notion)
 2. Superhuman
 3. Jira
 4. GoSquared
