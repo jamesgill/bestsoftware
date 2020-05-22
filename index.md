@@ -8,7 +8,8 @@ Whether you're looking to grow your email list, manage your team's work, or just
 * Best Software for vector design
 
 
-## Top 10 best software tools of 2020 (so far)
+## Top 10 best software tools of 2020 (so far)
+
 1. Notion
 2. Superhuman
 3. Jira
